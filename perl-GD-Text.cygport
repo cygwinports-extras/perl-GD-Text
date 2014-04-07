@@ -1,0 +1,16 @@
+CPAN_AUTHOR=mverb
+ORIG_PN="GDTextUtil"
+inherit perl
+
+NAME="perl-GD-Text"
+VERSION=0.86
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl GD font module"
+DESCRIPTION="This package provides three modules that make it possible to work
+with internal GD fonts as well as TrueType fonts, without having to worry about
+different interface functions to call. Apart from an abstract interface to all
+font types and strings for GD, this library also provides some utility in
+aligning and wrapping your string."
+
+ARCH=noarch
